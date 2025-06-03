@@ -1,0 +1,16 @@
+nextflow run h3abionet/h3agwas/qc/main.nf \
+--input_dir /home/soageng/oscc_data_honors/ \
+--input_pat oscc_dnachip_v5.1 \
+--output_dir /home/soageng/oscc_data_honors/ \
+--output oscc_qc \
+--data /home/soageng/oscc_data_honors/oscc_dnachip_v5.1.pheno --pheno cc \
+--case_control /home/soageng/oscc_data_honors/oscc_dnachip_v5.1.pheno --case_control_col cc \
+--cut_geno 0.01 \
+--cut_maf 0.01 \
+--cut_mind 0.02 \
+--cut_het_high 0.343 \
+--pi_hat 0.18 \
+--cut_het_low 0.15 \
+--cut_hwe 0.00001 \
+--sexinfo_available false \
+-profile slurmSingularity -resume

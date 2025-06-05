@@ -70,8 +70,8 @@ Honours_GWAS_PRS_OSCC_SouthAfrica/
 ---
 
 ## 📊 Example Results
-- **GWAS and quality control results
-**Table 1: Leading SNPs associated to OSCC in South African populations (p-value < 5×10⁻⁶).**
+- **GWAS and quality control results**
+  **Table 1: Leading SNPs associated to OSCC in South African populations (p-value < 5×10⁻⁶).**
 
 _Chr = chromosome number, rs_ID = SNP identifier, EA = effect allele, AA = alternate allele, EAF = effect allele frequency, OR = odds ratio, 95% CI = 95% confidence interval; OR calculated with reference to EA._
 | Chr | rs_ID        | Genes (within/ close to) | Position (GRCh37) | EA | AA | EAF  | OR (95% CI)      | P_value         |
@@ -91,7 +91,7 @@ _Chr = chromosome number, rs_ID = SNP identifier, EA = effect allele, AA = alter
 <img width="430" alt="manhattan_plot_corrected" src="https://github.com/user-attachments/assets/140c67ff-42ac-4e6c-8bb3-0bada1260cd9" />
 <img width="430" alt="qq_plot" src="https://github.com/user-attachments/assets/2d0dee17-0c40-4168-90dc-16888a22348c" />
 
-- **PRS results
+- **PRS results**
 <img width="430" alt="prscsx_density_plot" src="https://github.com/user-attachments/assets/218fb6ae-bf12-46e9-8b6a-f77697c15ca6" />
 <img width="430" alt="prsice_2_ROC_curve" src="https://github.com/user-attachments/assets/7a9b7906-e51e-43db-a3d1-a93425bba648" />
 

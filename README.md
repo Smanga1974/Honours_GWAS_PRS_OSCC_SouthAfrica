@@ -81,8 +81,8 @@ Honours_GWAS_PRS_OSCC_SouthAfrica/
 
 ## 🙌 Acknowledgments
 
-- Supervision: [Add supervisor names/institutions here]
-- Funding: [Add funding bodies if any]
+- Supervision: Dr Mahtab Hayaat
+- Funding: NRF
 - Tools and pipelines: PLINK, GEMMA, PRSice-2, H3AGWAS, and more
 
 ---

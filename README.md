@@ -110,7 +110,7 @@ _Chr = chromosome number, rs_ID = SNP identifier, EA = effect allele, AA = alter
 ## 💡 Why Recruit From This Project?
 
 - **Proven Data Science Skills:**  
-  Applied advanced data analysis, machine learning, and visualization to real-world genomics data.
+  Applied advanced data analysis, and visualization to real-world genomics data.
 - **Bioinformatics & Genomics:**  
   Hands-on experience with large-scale genetic datasets, domain-specific tools, and complex pipelines.
 - **Technical Communication:**  

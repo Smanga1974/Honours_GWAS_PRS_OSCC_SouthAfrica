@@ -142,7 +142,7 @@ _Chr = chromosome number, rs_ID = SNP identifier, EA = effect allele, AA = alter
 
 For questions, suggestions, collaboration, or recruitment opportunities, please contact:  
 **smangaliso.oageng@gmail.com**  
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) <!-- Add your LinkedIn URL here -->
+[LinkedIn](https://www.linkedin.com/in/smangaliso-oageng-09231b2aa/) <!-- Add your LinkedIn URL here -->
 
 ---
 

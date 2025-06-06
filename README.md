@@ -51,7 +51,7 @@ This repository contains code, pipelines, and documentation for conducting GWAS 
   Generated publication-quality plots (Manhattan, QQ, PCA, ROC curves) for effective communication of results.
 
 - **Reproducibility:**  
-  Used environment management (`environment.yml`), version control, and modular scripts for transparent, reliable research.
+  Used version control, and modular scripts for transparent, reliable research.
 
 - **Scalability:**  
   Pipelines designed to handle large datasets and computationally intensive tasks using HPC and parallelization.

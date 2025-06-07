@@ -42,10 +42,7 @@ This repository contains code, pipelines, and documentation for conducting GWAS 
 ## 🚀 Data Science Highlights
 
 - **Statistical Genetics:**  
-  Applied advanced statistical methods (logistic regression, linear mixed models, multiple testing correction) to high-dimensional genomic data.
-
-- **Machine Learning:**  
-  Integrated polygenic risk scoring and ROC analysis to assess predictive performance and model disease risk.
+  Applied advanced statistical methods (logistic regression, linear mixed models, multiple testing correction) to high-dimensional genomic data. Integrated polygenic risk scoring using clumping, thresholding, bayesian regression model, and ROC analysis to assess predictive performance and model disease risk.
 
 - **Data Visualization:**  
   Generated publication-quality plots (Manhattan, QQ, PCA, ROC curves) for effective communication of results.
